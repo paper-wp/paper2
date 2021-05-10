@@ -1,2 +1,3 @@
 # paper2
-no
+by:paper
+제작:paper
